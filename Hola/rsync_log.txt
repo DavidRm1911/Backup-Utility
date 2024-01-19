@@ -1,0 +1,20 @@
+2024/01/19 00:28:00 [61519] sent 0 bytes  received 0 bytes  total size 0
+2024/01/19 00:28:00 [61519] rsync error: unexplained error (code 255) at rsync.c(713) [sender=3.2.7]
+2024/01/19 00:30:50 [62881] sent 0 bytes  received 0 bytes  total size 0
+2024/01/19 00:30:50 [62881] rsync error: unexplained error (code 255) at rsync.c(713) [sender=3.2.7]
+2024/01/19 00:36:33 [65650] sent 0 bytes  received 0 bytes  total size 0
+2024/01/19 00:36:33 [65650] rsync error: unexplained error (code 255) at rsync.c(713) [sender=3.2.7]
+2024/01/19 00:39:17 [66969] sent 0 bytes  received 0 bytes  total size 0
+2024/01/19 00:39:17 [66969] rsync error: unexplained error (code 255) at rsync.c(713) [sender=3.2.7]
+2024/01/19 00:45:42 [70136] building file list
+2024/01/19 00:45:42 [70136] <f+++++++++ respaldo_20240119_004539.tar.gz
+2024/01/19 00:45:43 [70136] sent 276 bytes  received 35 bytes  69.11 bytes/sec
+2024/01/19 00:45:43 [70136] total size is 136  speedup is 0.44
+2024/01/19 00:48:40 [71570] building file list
+2024/01/19 00:48:40 [71570] <f+++++++++ respaldo_20240119_004837.tar.gz
+2024/01/19 00:48:41 [71570] sent 276 bytes  received 35 bytes  69.11 bytes/sec
+2024/01/19 00:48:41 [71570] total size is 136  speedup is 0.44
+2024/01/19 01:19:24 [86644] building file list
+2024/01/19 01:19:24 [86644] <f+++++++++ respaldo_20240119_011921.tar.gz
+2024/01/19 01:19:25 [86644] sent 276 bytes  received 35 bytes  69.11 bytes/sec
+2024/01/19 01:19:25 [86644] total size is 136  speedup is 0.44
